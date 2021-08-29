@@ -7,6 +7,7 @@ actions:
     icon: download
     url: "https://store.steampowered.com/app/362620/Software_Inc/?curator_clanid=41138263"
 category: steam
+image: https://cdn.cloudflare.steamstatic.com/steam/apps/362620/ss_edd6dc85e955d2f50de8dd4fea7e2a91603cea69.600x338.jpg?t=1619194828
 ---
 
 Placeholder text. 
@@ -14,3 +15,5 @@ Placeholder text.
 **Review on Steam**
 > *“Developers beware; Software Inc is here to take your jobs!
 > Not really. Soft Inc. is fun to play, and you'll soon find yourself with a net worth higher than Apple's, and a good amount of hours played.”*
+
+Image is from Software Inc.'s Steam page
