@@ -1,5 +1,3 @@
-
-
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -15,19 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-lang: en-IE
-title: "ByeMC Pick"
-email: pick@byemc.xyz
-description: "A bunch-a reviews - find me on Steam in the 'ByeMC's Group' group
-remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
-baseurl: /pick # the optional subpath of your site, e.g. "/blog"
-url: https://byemc.xyz/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+lang: en-US
+title: My Awesome Site
+email:
+description:
+baseurl: # the optional subpath of your site, e.g. "/blog"
+url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
-  name: Bye
-  twitter: _ByeMC
+  name:
+  twitter:
   picture:
-twitter_username: _ByeMC
-github_username: byemc
+twitter_username:
+github_username:
 logo: # path of site logo, e.g. "/assets/images/logo.png"
 search: # true, false (default)
 search_full_content: false # true, false (default)
@@ -40,6 +37,7 @@ algolia:
 
 # Build settings
 markdown: kramdown
+theme: jekyll-theme-basically-basic
 plugins: # previsously gems
   - jekyll-feed
   - jekyll-seo-tag
