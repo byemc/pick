@@ -21,7 +21,7 @@ I've played a good bit of this game through Alpha 10; however, Alpha 11 is, as o
 
 **Review on Steam**
 > *“Developers beware; Software Inc is here to take your jobs!
-> Not really. <abbr title="Software Inc.">Soft Inc.</abbvr> is fun to play, and you'll soon find yourself with a net worth higher than Apple's, and a good amount of hours played.”*
+> Not really. <abbr title="Software Inc.">Soft Inc.</abbr> is fun to play, and you'll soon find yourself with a net worth higher than Apple's, and a good amount of hours played.”*
 
 ## Other games to play
 
