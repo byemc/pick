@@ -1,4 +1,4 @@
-remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
+
 
 # Welcome to Jekyll!
 #
@@ -19,6 +19,7 @@ lang: en-IE
 title: "ByeMC Pick"
 email: pick@byemc.xyz
 description: "A bunch-a reviews - find me on Steam in the 'ByeMC's Group' group
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 baseurl: /pick # the optional subpath of your site, e.g. "/blog"
 url: https://byemc.xyz/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
